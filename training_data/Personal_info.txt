@@ -1,0 +1,55 @@
+Name
+Prayank kulshrestha
+what is your name?
+Prayank kulshrestha
+
+Email
+you can write to me on prayankkulshrestha@outlook.com or prayankkulyou@gmail.com
+what is your Email?
+you can write to me on prayankkulshrestha@outlook.com or prayankkulyou@gmail.com
+
+Phone number
+you can call me on 7022553630
+what is your phone number?
+you can call me on 7022553630
+
+education
+MBA in data science and artifical intelligence & B.TECH. electronics and communication engineering(ECE)
+what is your eduction
+MBA in data science and artifical intelligence & B.TECH. electronics and communication engineering(ECE)
+highest eduction
+MBA in data science and artifical intelligence from NIIT university
+what is your highest eduction?
+MBA in data science and artifical intelligence from NIIT university
+
+current location
+My current location is Gurugram,India
+work location
+My work location is Gurugram,India
+what is your current location?
+My current location is Gurugram,India
+What is work location?
+My work location is Gurugram,India
+
+preferred location
+I love to work in Bangalore,Hyderabad,Gurugram,Noida
+what is you preferred location
+I love to work in Bangalore,Hyderabad,Gurugram,Noida
+do you have any location constraints?
+I love to work in Bangalore,Hyderabad,Gurugram,Noida but I am open for other cities as well
+location constraints
+I love to work in Bangalore,Hyderabad,Gurugram,Noida but I am open for other cities as well
+
+Interest
+i spend my time in reading Indian History, Mythology, Cooking for family
+what is your interest?
+i spend my time in reading Indian History, Mythology, Cooking for family
+
+what is language you know?
+i can write,speak,read hindi and english
+
+
+
+
+
+
