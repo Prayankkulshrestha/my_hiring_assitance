@@ -17,15 +17,15 @@ chatbot = ChatBot(
         {
         'import_path': 'chatterbot.logic.BestMatch',
         'default_response': 'I am sorry, but I do not understand. I am still learning.',
-        'maximum_similarity_threshold': 0.90
+        'maximum_similarity_threshold': 0.95
         }
     ],
     database_uri='sqlite:///database.sqlite3'
 ) 
  # Training with Personal Ques & Ans 
-training_data_quesans = open(r'C:\Users\hi\Desktop\new-chatbot-master\training_data\Personal_info.txt').read().splitlines()
-training_data_personal = open(r'C:\Users\hi\Desktop\new-chatbot-master\training_data\simple.txt').read().splitlines()
-training_data_conv = open(r'C:\Users\hi\Desktop\new-chatbot-master\training_data\work_summary.txt').read().splitlines()
+training_data_quesans = open('training_data/Personal_info.txt').read().splitlines()
+training_data_personal = open('training_data/simple.txt').read().splitlines()
+training_data_conv = open('raining_data/work_summary.txt').read().splitlines()
 
 training_data = training_data_quesans + training_data_personal + training_data_conv
 
