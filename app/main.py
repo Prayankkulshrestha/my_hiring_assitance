@@ -11,7 +11,6 @@ import os
 chatbot = ChatBot(
     'Prayank Virtual Assistance',
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
-    statement_comparison_function=LevenshteinDistance,
     logic_adapters=[
         #'chatterbot.logic.BestMatch',
         {
